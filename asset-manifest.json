@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7213bca9.css",
+    "main.js": "/static/js/main.1574e300.js",
+    "static/js/787.a98c27a0.chunk.js": "/static/js/787.a98c27a0.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/FiraSans-Regular.ttf": "/static/media/FiraSans-Regular.1c0bf0728b51cb9f2ddc.ttf",
+    "static/media/NotoSans-Regular.ttf": "/static/media/NotoSans-Regular.fa11626fafb16c629d2c.ttf",
+    "static/media/NotoSans-Bold.ttf": "/static/media/NotoSans-Bold.66ab29744a551a59e9f5.ttf",
+    "static/media/Poppins-LightItalic.ttf": "/static/media/Poppins-LightItalic.5ccd942a8800a68d44b6.ttf",
+    "static/media/Roboto-Medium.ttf": "/static/media/Roboto-Medium.7429a63c09f79a1760b0.ttf",
+    "static/media/Roboto-Regular.ttf": "/static/media/Roboto-Regular.a8d6ac03c7b96b7acb62.ttf",
+    "static/media/Roboto-Bold.ttf": "/static/media/Roboto-Bold.75371f53f06181df75f1.ttf",
+    "static/media/Roboto-Light.ttf": "/static/media/Roboto-Light.8be2d1487420548b3b8d.ttf",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/Poppins-Light.ttf": "/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
+    "static/media/Poppins-Regular.ttf": "/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/static/media/Poppins-SemiBold.cce5625b56ec678e4202.ttf",
+    "static/media/Poppins-Bold.ttf": "/static/media/Poppins-Bold.404e299be26d78e66794.ttf",
+    "static/media/Poppins-Black.ttf": "/static/media/Poppins-Black.eacee5bb9c7fee5939ae.ttf",
+    "static/media/OpenSans-Regular.ttf": "/static/media/OpenSans-Regular.d7d7b8359eeb9cddfba6.ttf",
+    "static/media/OpenSans-Bold.ttf": "/static/media/OpenSans-Bold.6e27168fc8a5a200a026.ttf",
+    "static/media/OpenSans-SemiBold.ttf": "/static/media/OpenSans-SemiBold.d7261533b9a545ddc769.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/logo.png": "/static/media/logo.c88bca29f816a39f31cc.png",
+    "index.html": "/index.html",
+    "main.7213bca9.css.map": "/static/css/main.7213bca9.css.map",
+    "main.1574e300.js.map": "/static/js/main.1574e300.js.map",
+    "787.a98c27a0.chunk.js.map": "/static/js/787.a98c27a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7213bca9.css",
+    "static/js/main.1574e300.js"
+  ]
+}
